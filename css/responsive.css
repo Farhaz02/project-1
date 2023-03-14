@@ -1,0 +1,57 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+#banner .text h2 {
+font-size: 20px;
+color: #fff;
+line-height: 30px;
+width: 280px;
+margin-top: -180px;
+font-family: 'Inter', sans-serif;
+    }
+#banner .text p {
+font-size: 14px;
+color: #fff;
+line-height: 17px;
+width: 300px;
+padding: 21px 0;
+}
+#banner .img img {
+width: 64%;
+}
+#banner .img {
+margin-top: 14px;
+}
+#service .title h2 {
+font-size: 30px;
+}
+#service .title p {
+font-size: 14px;
+line-height: 20px;
+}
+#portfolio .title h2 {
+font-size: 30px;
+}
+#portfolio .title p {
+font-size: 14px;
+line-height: 22px;
+}
+#portfolio .menu ul li a {
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+}
+#team .title h2 {
+font-size: 30px;
+line-height: 35px;
+}
+#coustomer .title h2 {
+font-size: 30px;
+line-height: 35px;
+}
+#news .title h2{
+font-size: 30px;
+}
+#news .title p {
+font-size: 14px;
+line-height: 22px;
+}
+}
